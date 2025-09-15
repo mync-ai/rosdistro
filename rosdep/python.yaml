@@ -11352,3 +11352,10 @@ zulip-pip:
   ubuntu:
     pip:
       packages: [zulip]
+sparkfun-qwiic-icm20948-pip:
+  debian:
+    pip:
+      packages: [sparkfun-qwiic-icm20948]
+  ubuntu:
+    pip:
+      packages: [sparkfun-qwiic-icm20948]
