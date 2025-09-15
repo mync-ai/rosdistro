@@ -11359,3 +11359,10 @@ sparkfun-qwiic-icm20948-pip:
   ubuntu:
     pip:
       packages: [sparkfun-qwiic-icm20948]
+pyserial-pip:
+  debian:
+    pip:
+      packages: [pyserial]
+  ubuntu:
+    pip:
+      packages: [pyserial]
