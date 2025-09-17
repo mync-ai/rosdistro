@@ -11366,3 +11366,10 @@ pyserial-pip:
   ubuntu:
     pip:
       packages: [pyserial]
+web-browser-pip:
+  debian:
+    pip:
+      packages: [web-browser]
+  ubuntu:
+    pip:
+      packages: [web-browser]
